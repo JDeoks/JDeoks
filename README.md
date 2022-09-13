@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JeongDeok
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI
+Hi, I’m @JeongDeok
+I’m interested in AI
+I’m currently learning AI
 
 
 <!---
