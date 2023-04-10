@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=678dab&height=300&section=header&text=JDeoks&fontSize=90)
+
 # Hi there, I'm JDeoks 👋
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDeoks)
 ## About Me
@@ -21,3 +23,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JDeoks&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars&height=150&width=350)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=678dab&height=150&section=footer&%20World!&fontSize=50&animation=fadeIn)
