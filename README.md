@@ -10,12 +10,13 @@
 
 ## Languages and Tools
    
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=Swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-34B6F7?style=flat-square&logo=SwiftUI&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+
 
 ## My GitHub Stats
 
