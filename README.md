@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=678dab&height=300&section=header&text=JeongDeok&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=678dab&height=300&section=header&text=JDeoks&fontSize=90)
 
 # Hi there, I'm JDeoks 👋
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDeoks)
