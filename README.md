@@ -1,5 +1,5 @@
 # Hi there, I'm JDeoks 👋
-![Profile Views](https://komarev.com/ghpvc/?username=JDeoks)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDeoks)
 ## About Me
 
 - 🎓 I'm currently studying Computer Science.
