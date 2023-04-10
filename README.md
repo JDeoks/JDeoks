@@ -1,5 +1,5 @@
 # Hi there, I'm JDeoks 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=JDeoks)
 ## About Me
 
 - 🎓 I'm currently studying Computer Science.
