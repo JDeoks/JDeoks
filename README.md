@@ -13,6 +13,7 @@
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-34B6F7?style=flat-square&logo=SwiftUI&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
 
 
 ## My GitHub Stats
