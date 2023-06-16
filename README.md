@@ -20,6 +20,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDeoks&theme=dark&height=150&width=350)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JDeoks&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars&height=150&width=350)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=678dab&height=150&section=footer&%20World!&fontSize=50&animation=fadeIn)
