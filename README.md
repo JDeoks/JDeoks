@@ -1,20 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=678dab&height=300&section=header&text=JDeoks&fontSize=90)
 
 # Hi there, I'm JDeoks 👋
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDeoks)
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDeoks" height="25" />
+
 ## About Me
 
-- 🎓 I'm currently studying Computer Science.
-- 🌱 I’m currently learning Swift and Python.
-- 📫 How to reach me: duginee@naver.com
+<a href="https://apps.apple.com/kr/developer/jeongdeok-seo/id1690160553">
+	<img src="https://img.shields.io/badge/JeongDeok Seo-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="JeongDeok Seo" height="30" />
+</a>
+
+<a href="mailto:duginee@gachon.ac.kr">
+	<img src="https://img.shields.io/badge/duginee@gachon.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="duginee@gachon.ac.kr" height="30" />
+</a>
 
 ## Languages and Tools
-   
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=Swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-34B6F7?style=flat-square&logo=SwiftUI&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" alt="Swift" height="30" />
+<img src="https://img.shields.io/badge/SwiftUI-34B6F7?style=flat-square&logo=Swift&logoColor=white" alt="SwiftUI" height="30" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" height="30" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" alt="C" height="30" />
 
 ## My GitHub Stats
 
