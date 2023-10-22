@@ -6,6 +6,10 @@
 
 ## About Me
 
+<a href="https://www.youtube.com/@JDeoks_Dev">
+    <img src="https://img.shields.io/badge/서정덕-FF0000?style=flat-square&logo=youtube&logoColor=white" height="30"/>
+</a>
+<br>
 <a href="https://apps.apple.com/kr/developer/jeongdeok-seo/id1690160553">
 	<img src="https://img.shields.io/badge/JeongDeok Seo-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="JeongDeok Seo" height="30" />
 </a>
