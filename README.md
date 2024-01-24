@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/JeongDeok Seo-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="JeongDeok Seo" height="30" />
 </a>
 <br>
-<a href="mailto:duginee@gachon.ac.kr" target="_blank">
+<a href="mailto:JDeoksDev@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/duginee@gachon.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="duginee@gachon.ac.kr" height="30" />
 </a>
 
