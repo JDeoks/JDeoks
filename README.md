@@ -15,7 +15,7 @@
 </a>
 <br>
 <a href="mailto:JDeoksDev@gmail.com" target="_blank">
-	<img src="https://img.shields.io/badge/duginee@gachon.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="duginee@gachon.ac.kr" height="30" />
+	<img src="https://img.shields.io/badge/JDeoksDev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="duginee@gachon.ac.kr" height="30" />
 </a>
 
 ## Languages and Tools
