@@ -24,5 +24,3 @@
 <img src="https://img.shields.io/badge/SwiftUI-34B6F7?style=flat-square&logo=Swift&logoColor=white" alt="SwiftUI" height="30" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" height="30" />
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" alt="C" height="30" />
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=678dab&height=150&section=footer&%20World!&fontSize=50&animation=fadeIn)
